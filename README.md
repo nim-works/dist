@@ -1,7 +1,7 @@
 # dist
 
-[![Test Matrix](https://github.com/disruptek/dist/workflows/CI/badge.svg?branch=1.4.3)](https://github.com/disruptek/dist/actions?query=workflow%3ACI)
-![Minimum supported Nim version](https://img.shields.io/badge/nim-1.4.3%2B-informational?style=flat&logo=nim)
+[![Test Matrix](https://github.com/disruptek/dist/workflows/CI/badge.svg?branch=1.5.1)](https://github.com/disruptek/dist/actions?query=workflow%3ACI)
+![Minimum supported Nim version](https://img.shields.io/badge/nim-1.5.1%2B-informational?style=flat&logo=nim)
 [![License](https://img.shields.io/github/license/disruptek/dist?style=flat)](#license)
 [![buy me a coffee](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-orange.svg)](https://www.buymeacoffee.com/disruptek)
 
