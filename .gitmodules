@@ -137,3 +137,47 @@
 	path = zip
 	url = https://github.com/nim-lang/zip
 	branch = 0.3.1
+[submodule "fidget"]
+	path = fidget
+	url = https://github.com/treeform/fidget
+	branch = tag/0.6.2
+[submodule "chroma"]
+	path = chroma
+	url = https://github.com/treeform/chroma
+	branch = tag/0.1.5
+[submodule "supersnappy"]
+	path = supersnappy
+	url = https://github.com/guzba/supersnappy
+	branch = tag/2.0.0
+[submodule "bumpy"]
+	path = bumpy
+	url = https://github.com/treeform/bumpy
+	branch = tag/0.2.0
+[submodule "vmath"]
+	path = vmath
+	url = https://github.com/treeform/vmath
+	branch = tag/0.4.0
+[submodule "pixie"]
+	path = pixie
+	url = https://github.com/treeform/pixie
+	branch = tag/0.0.6
+[submodule "print"]
+	path = print
+	url = https://github.com/treeform/print
+	branch = tag/0.1.0
+[submodule "typography"]
+	path = typography
+	url = https://github.com/treeform/typography
+	branch = tag/0.7.0
+[submodule "opengl"]
+	path = opengl
+	url = https://github.com/nim-lang/opengl
+	branch = tag/1.2.5
+[submodule "html5_canvas"]
+	path = html_canvas
+	url = https://gitlab.com/define-private-public/HTML5-Canvas-Nim
+	branch = commit/9302d96efb5b4d0fc406e9eb20deca9c5465cef8
+[submodule "staticglfw"]
+	path = staticglfw
+	url = https://github.com/treeform/staticglfw
+	branch = tag/4.1.2
