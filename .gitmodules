@@ -17,10 +17,31 @@
 [submodule "sorta"]
 	path = sorta
 	url = https://github.com/narimiran/sorta
+	branch = commit/be57458b5b075151cbc192a99c2a43e513a6340a
 [submodule "bytes2human"]
 	path = bytes2human
 	url = https://github.com/juancarlospaco/nim-bytes2human
+	branch = commit/191ae9e9a0126ab57bd1953218491c5bfc19e200
 [submodule "criterion"]
 	path = criterion
 	url = https://github.com/disruptek/criterion
 	branch = tag/0.2.3
+[submodule "gram"]
+	path = gram
+	url = https://github.com/disruptek/gram
+[submodule "bump"]
+	path = bump
+	url = https://github.com/disruptek/bump
+	branch = tag/1.8.25
+[submodule "cutelog"]
+	path = cutelog
+	url = https://github.com/disruptek/cutelog
+	branch = tag/1.1.2
+[submodule "skiplists"]
+	path = skiplists
+	url = https://github.com/disruptek/skiplists
+	branch = tag/0.4.2
+[submodule "weave"]
+	path = weave
+	url = https://github.com/mratsim/weave
+	branch = tag/v0.4.0

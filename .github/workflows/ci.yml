@@ -49,6 +49,8 @@ jobs:
         shell: bash
         run: |
           cd dist
+          git submodule update --init .
+          echo "--path=\"\$config\"" > nim.cfg
 
           # just do this manually for now
 
@@ -65,6 +67,14 @@ jobs:
           nimble test
 
           cd ../criterion
+          nimble --accept develop
+          nimble test
+
+          cd ../bump
+          nimble --accept install
+          nimble test
+
+          cd ../gram
           nimble --accept develop
           nimble test
 
