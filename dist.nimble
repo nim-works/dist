@@ -1,0 +1,5 @@
+version = "0.0.1"
+author = "disruptek"
+description = "a nim distribution"
+license = "MIT"
+requires "nim >= 1.4.3"

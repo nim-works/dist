@@ -1,0 +1,26 @@
+[submodule "testes"]
+	path = testes
+	url = https://github.com/disruptek/testes
+	branch = tag/0.7.6
+[submodule "grok"]
+	path = grok
+	url = https://github.com/disruptek/grok
+	branch = tag/0.2.0
+[submodule "jason"]
+	path = jason
+	url = https://github.com/disruptek/jason
+	branch = tag/0.4.0
+[submodule "frosty"]
+	path = frosty
+	url = https://github.com/disruptek/frosty
+	branch = tag/0.4.4
+[submodule "sorta"]
+	path = sorta
+	url = https://github.com/narimiran/sorta
+[submodule "bytes2human"]
+	path = bytes2human
+	url = https://github.com/juancarlospaco/nim-bytes2human
+[submodule "criterion"]
+	path = criterion
+	url = https://github.com/disruptek/criterion
+	branch = tag/0.2.3
