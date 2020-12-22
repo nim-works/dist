@@ -57,3 +57,7 @@
 	path = flatty
 	url = https://github.com/treeform/flatty
 	branch = tag/0.1.2
+[submodule "zippy"]
+	path = zippy
+	url = https://github.com/guzba/zippy
+	branch = tag/0.4.0
