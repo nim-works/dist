@@ -181,3 +181,11 @@
 	path = staticglfw
 	url = https://github.com/treeform/staticglfw
 	branch = tag/4.1.2
+[submodule "arraymancer"]
+	path = arraymancer
+	url = https://github.com/mratsim/Arraymancer
+	branch = tag/v0.6.1
+[submodule "synthesis"]
+	path = synthesis
+	url = https://github.com/mratsim/Synthesis
+	branch = tag/v0.1.0
