@@ -189,3 +189,27 @@
 	path = synthesis
 	url = https://github.com/mratsim/Synthesis
 	branch = tag/v0.1.0
+[submodule "nimcl"]
+	path = nimcl
+	url = https://github.com/unicredit/nimcl
+	branch = tag/0.1.3
+[submodule "nimblas"]
+	path = nimblas
+	url = https://github.com/unicredit/nimblas
+	branch = tag/0.2.1
+[submodule "clblast"]
+	path = clblast
+	url = https://github.com/numforge/nim-clblast
+	branch = commit/4a602c9135160ffc89f779432acba7e51097e717
+[submodule "nimlapack"]
+	path = nimlapack
+	url = https://github.com/unicredit/nimlapack
+	branch = tag/0.1.1
+[submodule "stb_image"]
+	path = stb_image
+	url = https://gitlab.com/define-private-public/stb_image-Nim.git
+	branch = tag/2.4
+[submodule "nimcuda"]
+	path = nimcuda
+	url = https://github.com/unicredit/nimcuda
+	branch = tag/0.1.7
