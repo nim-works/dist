@@ -81,3 +81,7 @@
 	path = nimcuda
 	url = https://github.com/unicredit/nimcuda
 	branch = tag/0.1.7
+[submodule "npeg"]
+	path = npeg
+	url = https://github.com/zevv/npeg
+	branch = tag/0.23.2
