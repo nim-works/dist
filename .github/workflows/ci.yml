@@ -86,6 +86,10 @@ jobs:
           nimble --accept develop
           nimble test
 
+          cd ../arraymancer
+          nimble --accept develop
+          nimble test
+
 #      - name: Build docs
 #        if: ${{ matrix.docs }} == 'true'
 #        shell: bash
