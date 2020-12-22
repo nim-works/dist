@@ -70,6 +70,10 @@ jobs:
           nimble --accept develop
           nimble test
 
+          cd ../npeg
+          nimble --accept develop
+          nimble test
+
           cd ../bump
           nimble --accept install
           nimble test
