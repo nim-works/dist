@@ -8,14 +8,14 @@ on:
       - '**.nimble'
       - 'tests/**'
       - '.github/workflows/ci.yml'
-  pull_request:
-    paths:
-      - '**.cfg'
-      - '**.nims'
-      - '**.nim'
-      - '**.nimble'
-      - 'tests/**'
-      - '.github/workflows/ci.yml'
+#  pull_request:
+#    paths:
+#      - '**.cfg'
+#      - '**.nims'
+#      - '**.nim'
+#      - '**.nimble'
+#      - 'tests/**'
+#      - '.github/workflows/ci.yml'
 
 jobs:
   build:
