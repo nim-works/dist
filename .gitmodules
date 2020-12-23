@@ -129,3 +129,11 @@
 	path = nimlsp
 	url = https://github.com/PMunch/nimlsp
 	branch = tag/v0.2.4
+[submodule "untar"]
+	path = untar
+	url = https://github.com/dom96/untar
+	branch = commit/d21f7229b843b7f7ddfdb35deaae3f292d0cd1ed
+[submodule "zip"]
+	path = zip
+	url = https://github.com/nim-lang/zip
+	branch = 0.3.1
