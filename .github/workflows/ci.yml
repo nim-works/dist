@@ -72,19 +72,11 @@ jobs:
           nimble --accept develop
           nimble test
 
-          cd ../npeg
-          nimble --accept develop
-          nimble test
-
-          cd ../bump
+          cd ../ggplotnim
           nimble --accept install
           nimble test
 
           cd ../gram
-          nimble --accept develop
-          nimble test
-
-          cd ../cligen
           nimble --accept develop
           nimble test
 
