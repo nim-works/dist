@@ -72,6 +72,10 @@ jobs:
           nimble --accept develop
           nimble test
 
+          cd ../nimlsp
+          nimble --accept develop
+          nimble test
+
           cd ../npeg
           nimble --accept develop
           nimble test
