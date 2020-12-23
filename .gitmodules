@@ -69,3 +69,11 @@
 	path = nimsimd
 	url = https://github.com/guzba/nimsimd
 	branch = tag/0.4.5
+[submodule "jester"]
+	path = jester
+	url = https://github.com/dom96/jester
+	branch = tag/v0.5.0
+[submodule "nimcrypto"]
+	path = nimcrypto
+	url = https://github.com/cheatfate/nimcrypto
+	branch = commit/a065c1741836462762d18d2fced1fedd46095b02
