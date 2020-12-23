@@ -60,35 +60,11 @@ jobs:
           nimble --accept install
           nimble test
 
-          cd ../jason
-          nimble --accept develop
-          nimble test
-
-          cd ../frosty
-          nimble --accept develop
-          nimble test
-
-          cd ../criterion
-          nimble --accept develop
-          nimble test
-
           cd ../nimlsp
           nimble --accept install
           nimble test
 
-          cd ../npeg
-          nimble --accept develop
-          nimble test
-
-          cd ../bump
-          nimble --accept install
-          nimble test
-
           cd ../gram
-          nimble --accept develop
-          nimble test
-
-          cd ../cligen
           nimble --accept develop
           nimble test
 
