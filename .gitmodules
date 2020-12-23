@@ -117,3 +117,7 @@
 	path = shell
 	url = https://github.com/Vindaar/shell
 	branch = tag/v0.4.1
+[submodule "jsonschema"]
+	path = jsonschema
+	url = https://github.com/PMunch/jsonschema
+	branch = commit/7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf
