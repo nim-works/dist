@@ -144,7 +144,7 @@
 [submodule "chroma"]
 	path = chroma
 	url = https://github.com/treeform/chroma
-	branch = tag/0.1.5
+	branch = tag/0.2.1
 [submodule "supersnappy"]
 	path = supersnappy
 	url = https://github.com/guzba/supersnappy
