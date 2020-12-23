@@ -65,3 +65,7 @@
 	path = packedjson
 	url = https://github.com/Araq/packedjson
 	branch = tag/0.2.1
+[submodule "nimsimd"]
+	path = nimsimd
+	url = https://github.com/guzba/nimsimd
+	branch = tag/0.4.5
