@@ -81,3 +81,7 @@
 	path = karax
 	url = https://github.com/pragmagic/karax
 	branch = tag/1.1.3
+[submodule "regex"]
+	path = regex
+	url = https://github.com/nitely/nim-regex
+	branch = tag/v0.18.0
