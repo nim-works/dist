@@ -85,3 +85,7 @@
 	path = regex
 	url = https://github.com/nitely/nim-regex
 	branch = tag/v0.18.0
+[submodule "asynctools"]
+	path = asynctools
+	url = https://github.com/cheatfate/asynctools
+	branch = commit/c478bb74268c65e7400e81f49d26f82d20f1f57a
