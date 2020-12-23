@@ -71,7 +71,7 @@ jobs:
           cd ../weave
           nimble --accept develop
           nimble test
-
+ 
 #      - name: Build docs
 #        if: ${{ matrix.docs }} == 'true'
 #        shell: bash
