@@ -68,9 +68,9 @@ jobs:
           nimble --accept develop
           nimble test
 
-          cd ../fidget
-          nimble --accept develop
-          nimble test
+          #cd ../fidget
+          #nimble --accept develop
+          #nimble test
 
           cd ../criterion
           nimble --accept develop
