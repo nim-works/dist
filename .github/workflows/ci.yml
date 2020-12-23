@@ -73,7 +73,7 @@ jobs:
           nimble test
 
           cd ../nimlsp
-          nimble --accept develop
+          nimble --accept install
           nimble test
 
           cd ../npeg
