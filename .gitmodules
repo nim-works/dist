@@ -89,3 +89,7 @@
 	path = asynctools
 	url = https://github.com/cheatfate/asynctools
 	branch = commit/c478bb74268c65e7400e81f49d26f82d20f1f57a
+[submodule "httpbeast"]
+	path = httpbeast
+	url = https://github.com/dom96/httpbeast
+	branch = tag/v0.2.2
