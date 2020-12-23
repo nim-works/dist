@@ -77,3 +77,7 @@
 	path = nimcrypto
 	url = https://github.com/cheatfate/nimcrypto
 	branch = commit/a065c1741836462762d18d2fced1fedd46095b02
+[submodule "karax"]
+	path = karax
+	url = https://github.com/pragmagic/karax
+	branch = tag/1.1.3
