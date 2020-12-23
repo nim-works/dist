@@ -93,3 +93,27 @@
 	path = httpbeast
 	url = https://github.com/dom96/httpbeast
 	branch = tag/v0.2.2
+[submodule "ggplotnim"]
+	path = ggplotnim
+	url = https://github.com/Vindaar/ggplotnim
+	branch = tag/v0.3.20
+[submodule "ginger"]
+	path = ginger
+	url = https://github.com/Vindaar/ginger
+	branch = tag/v0.2.7
+[submodule "cairo"]
+	path = cairo
+	url = https://github.com/nim-lang/cairo
+	branch = tag/1.1.1
+[submodule "seqmath"]
+	path = seqmath
+	url = https://github.com/Vindaar/seqmath
+	branch = tag/v0.1.11
+[submodule "persvector"]
+	path = persvector
+	url = https://github.com/PMunch/nim-persistent-vector
+	branch = commit/3f92a26aced63c4d443f62a31402329a1c18d22e
+[submodule "shell"]
+	path = shell
+	url = https://github.com/Vindaar/shell
+	branch = tag/v0.4.1
