@@ -121,3 +121,7 @@
 	path = jsonschema
 	url = https://github.com/PMunch/jsonschema
 	branch = commit/7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf
+[submodule "ast_pattern_matching"]
+	path = ast_pattern_matching
+	url = https://github.com/krux02/ast-pattern-matching
+	branch = commit/87f7d163421af5a4f5e5cb6da7b93278e6897e96
