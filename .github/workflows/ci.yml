@@ -60,27 +60,7 @@ jobs:
           nimble --accept install
           nimble test
 
-          cd ../jason
-          nimble --accept develop
-          nimble test
-
-          cd ../frosty
-          nimble --accept develop
-          nimble test
-
-          #cd ../fidget
-          #nimble --accept develop
-          #nimble test
-
-          cd ../criterion
-          nimble --accept develop
-          nimble test
-
-          cd ../npeg
-          nimble --accept develop
-          nimble test
-
-          cd ../bump
+          cd ../nimlsp
           nimble --accept install
           nimble test
 
@@ -88,14 +68,9 @@ jobs:
           nimble --accept develop
           nimble test
 
-          cd ../cligen
-          nimble --accept develop
-          nimble test
-
           cd ../weave
           nimble --accept develop
           nimble test
-
  
 #      - name: Build docs
 #        if: ${{ matrix.docs }} == 'true'
