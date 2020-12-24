@@ -59,7 +59,7 @@ jobs:
           cd cligen
           nimble --accept install
 
-          cd testes
+          cd ../testes
           nimble --accept install
           nimble test
 
