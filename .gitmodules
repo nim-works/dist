@@ -237,3 +237,7 @@
 	path = unicodedb
 	url = https://github.com/nitely/nim-unicodedb
 	branch = tag/v0.9.0
+[submodule "unicodeplus"]
+	path = unicodeplus
+	url = https://github.com/nitely/nim-unicodeplus
+	branch = tag/v0.8.0
