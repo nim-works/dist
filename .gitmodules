@@ -233,3 +233,7 @@
 	path = nimble
 	url = https://github.com/nim-lang/nimble
 	branch = tag/v0.12.0
+[submodule "unicodedb"]
+	path = unicodedb
+	url = https://github.com/nitely/nim-unicodedb
+	branch = tag/v0.9.0
