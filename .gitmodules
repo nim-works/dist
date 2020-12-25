@@ -217,3 +217,19 @@
 	path = macroutils
 	url = https://github.com/PMunch/macroutils
 	branch = tag/v1.1.0
+[submodule "nimterop"]
+	path = nimterop
+	url = https://github.com/genotrance/nimterop
+	branch = tag/v0.6.11
+[submodule "nimgit2"]
+	path = nimgit2
+	url = https://github.com/genotrance/nimgit2
+	branch = tag/v0.3.2
+[submodule "gittyup"]
+	path = gittyup
+	url = https://github.com/disruptek/gittyup
+	branch = tag/2.5.9
+[submodule "nimble"]
+	path = nimble
+	url = https://github.com/nim-lang/nimble
+	branch = tag/v0.12.0
