@@ -241,3 +241,7 @@
 	path = unicodeplus
 	url = https://github.com/nitely/nim-unicodeplus
 	branch = tag/v0.8.0
+[submodule "nimp"]
+	path = nimp
+	url = https://github.com/c-blake/nimp
+	branch = commit/3818a6f864c839ee683ed66cd40d2bd81de39c93
