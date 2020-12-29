@@ -245,3 +245,7 @@
 	path = nimp
 	url = https://github.com/c-blake/nimp
 	branch = commit/3818a6f864c839ee683ed66cd40d2bd81de39c93
+[submodule "fusion"]
+	path = fusion
+	url = https://github.com/nim-lang/fusion
+	branch = commit/fadb9130ddcd5fb5f4551aa5fa8d7821f38c52ca
