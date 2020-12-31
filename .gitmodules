@@ -249,3 +249,7 @@
 	path = fusion
 	url = https://github.com/nim-lang/fusion
 	branch = commit/fadb9130ddcd5fb5f4551aa5fa8d7821f38c52ca
+[submodule "ws"]
+	path = ws
+	url = https://github.com/treeform/ws
+	branch = tag/0.4.3
