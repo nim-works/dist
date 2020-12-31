@@ -253,3 +253,7 @@
 	path = ws
 	url = https://github.com/treeform/ws
 	branch = tag/0.4.3
+[submodule "pg"]
+	path = pg
+	url = https://github.com/treeform/pg
+	branch = commit/5739d1a3f74a6e620cde4212f7faaae153803edc
