@@ -257,3 +257,7 @@
 	path = pg
 	url = https://github.com/treeform/pg
 	branch = tag/0.1.0
+[submodule "urlly"]
+	path = urlly
+	url = https://github.com/treeform/urlly
+	branch = tag/0.2.0
