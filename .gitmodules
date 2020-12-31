@@ -256,4 +256,4 @@
 [submodule "pg"]
 	path = pg
 	url = https://github.com/treeform/pg
-	branch = commit/5739d1a3f74a6e620cde4212f7faaae153803edc
+	branch = tag/0.1.0
