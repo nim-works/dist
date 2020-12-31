@@ -1,7 +1,7 @@
 [submodule "testes"]
 	path = testes
 	url = https://github.com/disruptek/testes
-	branch = tag/0.7.6
+	branch = tag/0.7.13
 [submodule "grok"]
 	path = grok
 	url = https://github.com/disruptek/grok
