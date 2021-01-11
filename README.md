@@ -14,6 +14,8 @@ interoperate and form a broadly useful basis for projects. Ideally, the
 distribution is so successful that we can move modules from the compiler's
 standard library into the distribution.
 
+[There's a little more detail in this Fusion RFC comment.](https://github.com/nim-lang/RFCs/issues/310#issuecomment-754130821)
+
 ## How Does It Work?
 
 Each branch of the distribution will correspond to a version of the Nim

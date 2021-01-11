@@ -8,6 +8,7 @@ on:
       - '**.nimble'
       - 'tests/**'
       - '.github/workflows/ci.yml'
+      - '.gitmodules'
 #  pull_request:
 #    paths:
 #      - '**.cfg'
@@ -16,6 +17,7 @@ on:
 #      - '**.nimble'
 #      - 'tests/**'
 #      - '.github/workflows/ci.yml'
+#      - '.gitmodules'
 
 jobs:
   build:
@@ -54,35 +56,18 @@ jobs:
 
           # just do this manually for now
 
-          cd testes
+          cd cligen
+          nimble --accept install
+
+          cd ../testes
           nimble --accept install
           nimble test
 
-          cd ../jason
-          nimble --accept develop
-          nimble test
-
-          cd ../frosty
-          nimble --accept develop
-          nimble test
-
-          cd ../criterion
-          nimble --accept develop
-          nimble test
-
-          cd ../npeg
-          nimble --accept develop
-          nimble test
-
-          cd ../bump
+          cd ../nimlsp
           nimble --accept install
           nimble test
 
           cd ../gram
-          nimble --accept develop
-          nimble test
-
-          cd ../cligen
           nimble --accept develop
           nimble test
 
