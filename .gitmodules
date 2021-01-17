@@ -25,7 +25,7 @@
 [submodule "criterion"]
 	path = criterion
 	url = https://github.com/disruptek/criterion
-	branch = tag/0.2.4
+	branch = tag/0.2.7
 [submodule "gram"]
 	path = gram
 	url = https://github.com/disruptek/gram
