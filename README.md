@@ -38,42 +38,59 @@ broadly useful functionality.
 
 ## Okay, I'm Sold.  How Do I Use It?
 
-### install the distribution
+### Automatic Installation of the Distribution
+
+The easiest way to use the distribution is via **gitnim**:
+
+https://github.com/disruptek/gitnim or https://gitnim.com/
+
+```bash
+$ git nim
+```
+![git nim](https://github.com/disruptek/gitnim/raw/master/docs/gitnim.svg "git nim")
+
+### Manual Installation of the Distribution
 ```
 $ git clone --depth 1 https://github.com/disruptek/dist
 $ cd dist
 $ git submodule update --init .
 ```
 
-### specify the distribution in your project configuration
+### Using the Distribution in Your Project
 ```
 $ cd ../project
 $ echo "--path=../dist" >> nim.cfg
 $ nim c project.nim
 ```
 
-### update the distribution
+### Updating the Distribution
 ```
 $ cd ../dist
 $ git pull
 ```
 
-### switch distribution versions
-```
-$ cd ../dist
-$ git checkout 1.5.1
-```
-
-### see what has changed and when
+### Seeing What Changed and When
 ```
 $ cd ../dist
 $ git log
 ```
 
-### tag distribution versions
+### Switching Distribution Versions
+```
+$ cd ../dist
+$ git checkout 1.5.1
+```
+
+### Tagging Distribution Versions
 ```
 $ cd ../dist
 $ git tag -a works_with_myproject
+```
+
+### Switching to a Specific Tag
+```
+$ cd ../dist
+$ git checkout works_with_myproject
 ```
 
 ### you get the idea... 😉
