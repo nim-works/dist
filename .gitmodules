@@ -262,3 +262,7 @@
 	path = urlly
 	url = https://github.com/treeform/urlly
 	branch = tag/0.2.0
+[submodule "balls"]
+	path = balls
+	url = https://github.com/disruptek/balls
+	branch = tag/2.0.3
