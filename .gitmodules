@@ -29,7 +29,7 @@
 [submodule "gram"]
 	path = gram
 	url = https://github.com/disruptek/gram
-	branch = tag/0.3.0
+	branch = tag/0.3.2
 [submodule "bump"]
 	path = bump
 	url = https://github.com/disruptek/bump
@@ -41,7 +41,7 @@
 [submodule "skiplists"]
 	path = skiplists
 	url = https://github.com/disruptek/skiplists
-	branch = tag/0.4.2
+	branch = tag/0.5.1
 [submodule "weave"]
 	path = weave
 	url = https://github.com/mratsim/weave
