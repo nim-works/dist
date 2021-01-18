@@ -54,12 +54,8 @@ jobs:
 
           # just do this manually for now
 
-          cd testes
+          cd balls
           nimble --accept install
-          nimble test
-
-          cd ../jason
-          nimble --accept develop
           nimble test
 
           cd ../frosty
