@@ -37,7 +37,7 @@
 [submodule "skiplists"]
 	path = skiplists
 	url = https://github.com/disruptek/skiplists
-	branch = tag/0.4.2
+	branch = tag/0.5.1
 [submodule "weave"]
 	path = weave
 	url = https://github.com/mratsim/weave
