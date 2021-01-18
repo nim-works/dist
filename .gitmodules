@@ -5,7 +5,7 @@
 [submodule "grok"]
 	path = grok
 	url = https://github.com/disruptek/grok
-	branch = tag/0.2.0
+	branch = tag/0.3.1
 [submodule "frosty"]
 	path = frosty
 	url = https://github.com/disruptek/frosty
