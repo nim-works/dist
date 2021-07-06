@@ -5,7 +5,7 @@
 [submodule "grok"]
 	path = grok
 	url = https://github.com/disruptek/grok
-	branch = tag/0.5.0
+	branch = tag/0.5.2
 [submodule "jason"]
 	path = jason
 	url = https://github.com/disruptek/jason
@@ -13,7 +13,7 @@
 [submodule "frosty"]
 	path = frosty
 	url = https://github.com/disruptek/frosty
-	branch = tag/0.4.4
+	branch = tag/1.0.0
 [submodule "sorta"]
 	path = sorta
 	url = https://github.com/narimiran/sorta
@@ -37,7 +37,7 @@
 [submodule "cutelog"]
 	path = cutelog
 	url = https://github.com/disruptek/cutelog
-	branch = tag/1.1.2
+	branch = tag/2.0.0
 [submodule "skiplists"]
 	path = skiplists
 	url = https://github.com/disruptek/skiplists
@@ -265,8 +265,8 @@
 [submodule "balls"]
 	path = balls
 	url = https://github.com/disruptek/balls
-	branch = tag/2.3.1
+	branch = tag/3.3.7
 [submodule "ups"]
 	path = ups
 	url = https://github.com/disruptek/ups
-	branch = tag/0.0.5
+	branch = tag/0.0.7
