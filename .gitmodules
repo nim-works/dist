@@ -25,7 +25,7 @@
 [submodule "gram"]
 	path = gram
 	url = https://github.com/disruptek/gram
-	branch = tag/0.3.2
+	branch = tag/0.4.0
 [submodule "bump"]
 	path = bump
 	url = https://github.com/disruptek/bump
