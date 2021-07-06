@@ -266,3 +266,7 @@
 	path = ups
 	url = https://github.com/disruptek/ups
 	branch = tag/0.0.7
+[submodule "cps"]
+	path = cps
+	url = https://github.com/disruptek/cps
+	branch = tag/0.1.0
