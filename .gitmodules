@@ -261,7 +261,7 @@
 [submodule "balls"]
 	path = balls
 	url = https://github.com/disruptek/balls
-	branch = tag/3.3.7
+	branch = tag/3.5.1
 [submodule "ups"]
 	path = ups
 	url = https://github.com/disruptek/ups
