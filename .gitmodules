@@ -38,10 +38,6 @@
 	path = skiplists
 	url = https://github.com/disruptek/skiplists
 	branch = tag/0.5.4
-[submodule "weave"]
-	path = weave
-	url = https://github.com/mratsim/weave
-	branch = tag/v0.4.0
 [submodule "cligen"]
 	path = cligen
 	url = https://github.com/c-blake/cligen
