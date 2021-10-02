@@ -54,7 +54,7 @@ jobs:
 
           cd ../balls
           nimble --accept install
-          nimble test
+          balls
 
           cd ../nimlsp
           nimble --accept install
@@ -62,11 +62,14 @@ jobs:
 
           cd ../gram
           nimble --accept develop
-          nimble test
+          balls
 
-          cd ../weave
+          cd ../cps
           nimble --accept develop
-          nimble test
+          cd examples
+          balls
+          cd ..
+          balls
 
 #      - name: Build docs
 #        if: ${{ matrix.docs }} == 'true'
