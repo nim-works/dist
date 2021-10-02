@@ -9,7 +9,7 @@
 [submodule "frosty"]
 	path = frosty
 	url = https://github.com/disruptek/frosty
-	branch = tag/1.0.0
+	branch = tag/2.1.0
 [submodule "sorta"]
 	path = sorta
 	url = https://github.com/narimiran/sorta
