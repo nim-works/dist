@@ -269,4 +269,4 @@
 [submodule "cps"]
 	path = cps
 	url = https://github.com/disruptek/cps
-	branch = tag/0.1.0
+	branch = tag/0.4.2
