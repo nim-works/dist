@@ -37,7 +37,7 @@
 [submodule "cutelog"]
 	path = cutelog
 	url = https://github.com/disruptek/cutelog
-	branch = tag/1.1.2
+	branch = tag/2.0.0
 [submodule "skiplists"]
 	path = skiplists
 	url = https://github.com/disruptek/skiplists
