@@ -269,4 +269,4 @@
 [submodule "ups"]
 	path = ups
 	url = https://github.com/disruptek/ups
-	branch = tag/0.0.5
+	branch = tag/0.0.7
