@@ -229,7 +229,7 @@
 [submodule "gittyup"]
 	path = gittyup
 	url = https://github.com/disruptek/gittyup
-	branch = tag/2.5.9
+	branch = tag/2.6.2
 [submodule "nimble"]
 	path = nimble
 	url = https://github.com/nim-lang/nimble
