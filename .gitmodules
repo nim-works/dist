@@ -61,7 +61,7 @@
 [submodule "zippy"]
 	path = zippy
 	url = https://github.com/guzba/zippy
-	branch = tag/0.4.0
+	branch = tag/0.6.0
 [submodule "packedjson"]
 	path = packedjson
 	url = https://github.com/Araq/packedjson
