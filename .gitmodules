@@ -266,3 +266,7 @@
 	path = cps
 	url = https://github.com/disruptek/cps
 	branch = tag/0.4.4
+[submodule "adix"]
+	path = adix
+	url = https://github.com/c-blake/adix
+	branch = tag/0.2.1
