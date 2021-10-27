@@ -1,9 +1,8 @@
 # dist
 
-[![Test Matrix](https://github.com/disruptek/dist/workflows/CI/badge.svg?branch=1.5.1)](https://github.com/disruptek/dist/actions?query=workflow%3ACI)
-![Minimum supported Nim version](https://img.shields.io/badge/nim-1.5.1%2B-informational?style=flat&logo=nim)
-[![License](https://img.shields.io/github/license/disruptek/dist?style=flat)](#license)
-[![buy me a coffee](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-orange.svg)](https://www.buymeacoffee.com/disruptek)
+[![Test Matrix](https://github.com/nim-works/dist/workflows/CI/badge.svg?branch=1.7.1)](https://github.com/nim-works/dist/actions?query=workflow%3ACI)
+![Minimum supported Nim version](https://img.shields.io/badge/nim-1.7.1%2B-informational?style=flat&logo=nim)
+[![License](https://img.shields.io/github/license/nim-works/dist?style=flat)](#license)
 
 a nim distribution
 
@@ -42,16 +41,16 @@ broadly useful functionality.
 
 The easiest way to use the distribution is via **gitnim**:
 
-https://github.com/disruptek/gitnim or https://gitnim.com/
+https://github.com/nim-works/gitnim or https://gitnim.com/
 
 ```bash
 $ git nim
 ```
-![git nim](https://github.com/disruptek/gitnim/raw/master/docs/gitnim.svg "git nim")
+![git nim](https://github.com/nim-works/gitnim/raw/master/docs/gitnim.svg "git nim")
 
 ### Manual Installation of the Distribution
 ```
-$ git clone --depth 1 https://github.com/disruptek/dist
+$ git clone --depth 1 https://github.com/nim-works/dist
 $ cd dist
 $ git submodule update --init .
 ```
