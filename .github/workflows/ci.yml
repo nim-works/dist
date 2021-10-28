@@ -67,7 +67,7 @@ jobs:
           cd ../cps
           nimble --accept develop
           cd examples
-          balls
+          env GITHUB_ACTIONS=false balls --path=".."
           cd ..
           balls
 
