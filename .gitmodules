@@ -14,10 +14,6 @@
 	path = sorta
 	url = https://github.com/narimiran/sorta
 	branch = commit/be57458b5b075151cbc192a99c2a43e513a6340a
-[submodule "bytes2human"]
-	path = bytes2human
-	url = https://github.com/juancarlospaco/nim-bytes2human
-	branch = commit/191ae9e9a0126ab57bd1953218491c5bfc19e200
 [submodule "criterion"]
 	path = criterion
 	url = https://github.com/disruptek/criterion
