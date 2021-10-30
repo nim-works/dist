@@ -45,7 +45,7 @@
 [submodule "npeg"]
 	path = npeg
 	url = https://github.com/zevv/npeg
-	branch = tag/0.23.2
+	branch = tag/0.25.0
 [submodule "flatty"]
 	path = flatty
 	url = https://github.com/treeform/flatty
