@@ -274,3 +274,7 @@
 	path = sync
 	url = https://github.com/planetis-m/sync
 	branch = tag/v1.4.0
+[submodule "loony"]
+	path = loony
+	url = https://github.com/nim-works/loony
+	branch = tag/0.1.8
