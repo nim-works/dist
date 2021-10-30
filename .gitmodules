@@ -270,3 +270,7 @@
 	path = adix
 	url = https://github.com/c-blake/adix
 	branch = tag/0.2.1
+[submodule "sync"]
+	path = sync
+	url = https://github.com/planetis-m/sync
+	branch = tag/v1.4.0
