@@ -278,3 +278,7 @@
 	path = loony
 	url = https://github.com/nim-works/loony
 	branch = tag/0.1.8
+[submodule "arc"]
+	path = arc
+	url = https://github.com/nim-works/arc
+	branch = tag/0.0.2
