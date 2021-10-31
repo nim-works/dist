@@ -1,7 +1,7 @@
 # dist
 
-[![Test Matrix](https://github.com/nim-works/dist/workflows/CI/badge.svg?branch=1.6.0)](https://github.com/nim-works/dist/actions?query=workflow%3ACI)
-![Minimum supported Nim version](https://img.shields.io/badge/nim-1.6.0%2B-informational?style=flat&logo=nim)
+[![Test Matrix](https://github.com/nim-works/dist/workflows/CI/badge.svg?branch=1.6.1)](https://github.com/nim-works/dist/actions?query=workflow%3ACI)
+![Minimum supported Nim version](https://img.shields.io/badge/nim-1.6.1%2B-informational?style=flat&logo=nim)
 [![License](https://img.shields.io/github/license/nim-works/dist?style=flat)](#license)
 
 a nim distribution
